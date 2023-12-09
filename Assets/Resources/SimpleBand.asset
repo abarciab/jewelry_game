@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62014d15eed95cc48bcdceba6b71a3a6, type: 3}
+  m_Name: SimpleBand
+  m_EditorClassIdentifier: 
+  MoldPrefab: {fileID: 7894104643723692120, guid: 24e550c4090a5f2439811ca821e3ce3b, type: 3}
+  MoldCastCost: 0
+  CompletedPart:
+    _name: simple MATERIAL band
+    Type: 1
+    previewImage: {fileID: 0}
+    Material: 0
+    Stage: 0
+    Rarity: 0
+    NumSettingSlots: 1
+    NumGemSlots: 1
